@@ -3,8 +3,13 @@ html {
   font-family: Verdana;
   font-size: 16px;
 }
+
 h1 {
   color: white;
   font-size: 50px;
   text-align: center;
+}
+
+h3 {
+  color: Aquamarine;
 }
